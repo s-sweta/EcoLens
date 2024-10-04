@@ -11,9 +11,11 @@
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
+  
+
+
 ## Watch the Loom Video
-[![Watch the Video](![image](https://github.com/user-attachments/assets/a03a76c0-9b59-4fc8-b6fc-e105ae6a19c1)
-)]([https://www.loom.com/share/your-video-id](https://www.loom.com/share/1a90897126e849f588a3df782ced4258?sid=990ac493-8c10-42c7-beef-24aec5945d3d))
+[![Watch the Video](![image](https://github.com/user-attachments/assets/1636a2c5-8a74-4587-add6-0a470b1cf09e))(https://www.loom.com/share/1a90897126e849f588a3df782ced4258?sid=0d0b6f44-ecba-40a0-8fcc-1c98c1488f32)]
 
 ## Features
 - Barcode scanning and product lookup.
