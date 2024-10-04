@@ -49,7 +49,7 @@ Create a `.env` file in the root directory and add the following variables:
 FRONTEND_URL=http://localhost:3000
 PORT=5000
 BARCODE_LOOKUP_API_KEY=<your-barcode-lookup-api-key>
-GOOGLE_GEMINI_API_KEY=<your-google-generative-ai-api-key>
+API_KEY=<your-google-generative-ai-api-key>
 ```
 
 ### Run the app
