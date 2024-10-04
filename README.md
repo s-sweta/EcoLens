@@ -11,6 +11,10 @@
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
+## Watch the Loom Video
+[![Watch the Video](![image](https://github.com/user-attachments/assets/a03a76c0-9b59-4fc8-b6fc-e105ae6a19c1)
+)]([https://www.loom.com/share/your-video-id](https://www.loom.com/share/1a90897126e849f588a3df782ced4258?sid=990ac493-8c10-42c7-beef-24aec5945d3d))
+
 ## Features
 - Barcode scanning and product lookup.
 - Web scraping for additional product and brand information.
