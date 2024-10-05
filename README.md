@@ -1,4 +1,4 @@
-# EcoLens
+![image](https://github.com/user-attachments/assets/3921958c-776a-471a-82cf-b00295301113)# EcoLens
 
 **EcoLens** is a sustainability analysis tool that allows users to scan a product barcode and get detailed sustainability scores based on various environmental and social parameters. It utilizes a barcode lookup API, web scraping, and Google's generative AI to gather and assess product sustainability information.
 
@@ -15,7 +15,8 @@
 
 
 ## Watch the Loom Video
-[![Watch the Video](![image](https://github.com/user-attachments/assets/1636a2c5-8a74-4587-add6-0a470b1cf09e))(https://www.loom.com/share/1a90897126e849f588a3df782ced4258?sid=0d0b6f44-ecba-40a0-8fcc-1c98c1488f32)]
+[![Watch the Video](![image](https://github.com/user-attachments/assets/bacdd70e-a534-48ea-b698-07c2809200b5)
+)(https://www.loom.com/share/739baac2854d4dec84f857893820a5d9?sid=a5791a9d-4a97-4445-9140-412e2b0df07d)]
 
 ## Features
 - Barcode scanning and product lookup.
