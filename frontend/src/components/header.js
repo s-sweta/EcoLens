@@ -85,7 +85,7 @@ const Header = () => {
     return (
         <header className="header">
             <div className="overlay">
-                <h1>EcoScan</h1>
+                <h1>EcoLens</h1>
                 <div className="tip-container">
                     <p id="tip-text">{displayTip}</p>
                 </div>
