@@ -19,7 +19,13 @@ const BarcodeInput = ({ setProductData }) => {
         setLoading(true);
         try {
             // Sending barcode number in the request body
-            const response = await axios.post('http://localhost:5000/process-barcode', {
+            const backendUrl = process.env.REACT_APP_BACKEND_URL;
+
+            console.log("Backend URL:", process.env.REACT_APP_BACKEND_URL);
+
+
+
+            const response = await axios.post(`${backendUrl}/process-barcode`, {
                 barcode: barcode,
             });
             setProductData(response.data); // Update the product data with the response

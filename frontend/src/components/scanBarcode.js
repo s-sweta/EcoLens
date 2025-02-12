@@ -31,9 +31,15 @@ const ScanBarcode = ({ setProductData }) => {  // Change the name to start with 
 
     setLoading(true);
     try {
-      const response = await axios.post('http://localhost:5000/process-barcode', {
-        barcode: barcode,
-      });
+      const backendUrl = process.env.REACT_APP_BACKEND_URL;
+
+            console.log("Backend URL:", process.env.REACT_APP_BACKEND_URL);
+
+
+
+            const response = await axios.post(`${backendUrl}/process-barcode`, {
+                barcode: barcode,
+            });
       setProductData(response.data);// Update the result with the response data
     } catch (error) {
       console.error('Error processing barcode:', error);
